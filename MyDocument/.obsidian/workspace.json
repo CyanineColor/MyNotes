@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ae532ad05e55e7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfdc119af3a6806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49fa04d4290047c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/前端/Uni-app/2.传统前端跟Uniapp对比.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.传统前端跟Uniapp对比"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e1929ea5fd16e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a835153ac4570fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d7a721e84693b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "db0ff221716eabaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d68d917c4934a8ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5116625cff90088f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ecb91c2da55b92d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810e94baaf90da31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "音箱预设.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "音箱预设 的反向链接列表"
+            }
+          },
+          {
+            "id": "a33eeeb95bdf74fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prism/导航.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "导航 的出链列表"
+            }
+          },
+          {
+            "id": "0dda6dbdd3fc252e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "30baf6260b990900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prism/导航.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "导航 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b49fa04d4290047c",
+  "lastOpenFiles": [
+    "Notes/前端/Uni-app/1.uniapp项目结构说明.md",
+    "Notes/前端/Uni-app/2.传统前端跟Uniapp对比.md",
+    "Notes/前端/Uni-app",
+    "Notes/编程思想-提升/算法/4.哈希查找算法.md",
+    "Notes/编程思想-提升/算法/3.二叉搜索树算法.md",
+    "Notes/编程思想-提升/算法/2.线性查找算法.md",
+    "Notes/编程思想-提升/算法/1.二分查找法.md",
+    "prism/导航.md",
+    "Notes/编程思想-提升/算法",
+    "prism/自定义ViewModel注册.md",
+    "prism/prism框架.md",
+    "Notes/IDE工具的使用/Visual Studio/Visual Studio常用快捷键.md",
+    "Notes/IDE工具的使用/Visual Studio/远程调试.md",
+    "sql/SQL语句总结.md",
+    "Notes/IDE工具的使用/Visual Studio",
+    "Notes/IDE工具的使用",
+    "sql/常用sql命令.md",
+    "Notes/冷门且恶心的坑/Win11共享盘文件下载引发的安全策略问题解决.md",
+    "Notes/冷门且恶心的坑/强制转换区域陷阱.md",
+    "C#/集合线程安全.md",
+    "Notes/编程思想-提升/可维护性编程准则.md",
+    "未命名.md",
+    "未命名 2.md",
+    "音箱预设.md",
+    "调试临时文档.md",
+    "欢迎.md",
+    "6a11d52af64f1c7cfb98745e7dc72f07.png",
+    "创建链接.md",
+    "WPF/未命名.md",
+    "临时文件",
+    "WPF/未命名",
+    "c43de74edc8b572ee87c88ca1b9c023f.png",
+    "Pasted image 20250822101638.png",
+    "Notes/前端/NPM/常用npm命令.md",
+    "Notes/前端/NPM/npm（Node Package Manager）.md",
+    "Notes/前端/NPM",
+    "a0414192fb77d810111ec059e5391ba3.png",
+    "Pasted image 20250520092456.png",
+    "Pasted image 20250326161758.png",
+    "Pasted image 20250325105446.png",
+    "Notes/网络连接",
+    "Notes/物联网",
+    "Notes/编程思想-提升/设计模式",
+    "Pasted image 20250325105606.png",
+    "Pasted image 20250326161842.png",
+    "未命名.canvas"
+  ]
+}
