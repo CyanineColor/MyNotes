@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/前端/Uni-app/2.传统前端跟Uniapp对比.md",
+                "file": "未命名 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.传统前端跟Uniapp对比"
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "073b48b7c661015e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web返回的全部信息格式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web返回的全部信息格式"
+            }
+          },
+          {
+            "id": "c330e7ec7ad35d19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,51 +193,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b49fa04d4290047c",
+  "active": "073b48b7c661015e",
   "lastOpenFiles": [
-    "Notes/前端/Uni-app/1.uniapp项目结构说明.md",
-    "Notes/前端/Uni-app/2.传统前端跟Uniapp对比.md",
+    "未命名 2.md",
+    "Web返回的全部信息格式.md",
+    "音箱预设.md",
+    "未命名 6.md",
+    "欢迎.md",
+    "矩阵.md",
+    "创建链接.md",
+    "Notes/艺术/未命名.md",
+    "Notes/冷门且恶心的坑/强制转换区域陷阱.md",
+    "Notes/冷门且恶心的坑/Win11共享盘文件下载引发的安全策略问题解决.md",
+    "Notes/艺术",
+    "C#/Task.md",
+    "Work/win11安全策略.md",
+    "c43de74edc8b572ee87c88ca1b9c023f 1.png",
+    "Notes/编程思想-提升/设计模式/(开闭原则）多态代替条件.md",
+    "Notes/编程思想-提升/设计模式/观察者模式（发布-订阅模式）.md",
+    "Work/项目/奥雷代办.md",
+    "Work/代办.md",
+    "Work/项目/项目链接.md",
+    "Work/软件加密参数选项.md",
+    "Work/系统自带的framework 版本.md",
+    "Work/web预设.md",
+    "6a11d52af64f1c7cfb98745e7dc72f07.png",
+    "Notes/前端/域名，备案/5.域名 → SSL证书 → HTTPS.md",
+    "Notes/前端/域名，备案/4.Unicloud备案.md",
+    "Notes/前端/域名，备案/3.个人网站备案.md",
+    "Notes/前端/域名，备案/2.域名备案.md",
+    "Notes/前端/域名，备案/1.域名的作用.md",
+    "Notes/前端/Uni-app/云端开发/发布网站到云端.md",
+    "Notes/前端/域名，备案",
+    "Notes/前端/Uni-app/云端开发",
     "Notes/前端/Uni-app",
-    "Notes/编程思想-提升/算法/4.哈希查找算法.md",
-    "Notes/编程思想-提升/算法/3.二叉搜索树算法.md",
-    "Notes/编程思想-提升/算法/2.线性查找算法.md",
-    "Notes/编程思想-提升/算法/1.二分查找法.md",
-    "prism/导航.md",
     "Notes/编程思想-提升/算法",
-    "prism/自定义ViewModel注册.md",
-    "prism/prism框架.md",
-    "Notes/IDE工具的使用/Visual Studio/Visual Studio常用快捷键.md",
-    "Notes/IDE工具的使用/Visual Studio/远程调试.md",
-    "sql/SQL语句总结.md",
     "Notes/IDE工具的使用/Visual Studio",
     "Notes/IDE工具的使用",
-    "sql/常用sql命令.md",
-    "Notes/冷门且恶心的坑/Win11共享盘文件下载引发的安全策略问题解决.md",
-    "Notes/冷门且恶心的坑/强制转换区域陷阱.md",
-    "C#/集合线程安全.md",
-    "Notes/编程思想-提升/可维护性编程准则.md",
-    "未命名.md",
-    "未命名 2.md",
-    "音箱预设.md",
-    "调试临时文档.md",
-    "欢迎.md",
-    "6a11d52af64f1c7cfb98745e7dc72f07.png",
-    "创建链接.md",
-    "WPF/未命名.md",
     "临时文件",
     "WPF/未命名",
     "c43de74edc8b572ee87c88ca1b9c023f.png",
     "Pasted image 20250822101638.png",
-    "Notes/前端/NPM/常用npm命令.md",
-    "Notes/前端/NPM/npm（Node Package Manager）.md",
     "Notes/前端/NPM",
     "a0414192fb77d810111ec059e5391ba3.png",
     "Pasted image 20250520092456.png",
     "Pasted image 20250326161758.png",
     "Pasted image 20250325105446.png",
-    "Notes/网络连接",
-    "Notes/物联网",
-    "Notes/编程思想-提升/设计模式",
     "Pasted image 20250325105606.png",
     "Pasted image 20250326161842.png",
     "未命名.canvas"
