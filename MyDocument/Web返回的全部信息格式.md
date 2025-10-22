@@ -180,7 +180,7 @@
 	"CHNAMEname29": "OUT FINAL 2",
 	"CHNAMEname30": "OUT FINAL 3",
 	"CHNAMEname31": "OUT FINAL 4",
-	//音箱预设名称？
+	//通道预设名称，和预设类型
 	"SPKNAMEname0": "Speaker preset 1",
 	"SPKNAMEtype0": 0,
 	"SPKNAMEname1": "Speaker preset 2",
@@ -194,10 +194,12 @@
 	"SPKMODVALIDvalid_flag1": 0,
 	"SPKMODVALIDvalid_flag2": 0,
 	"SPKMODVALIDvalid_flag3": 0,
+	
 	"SPKMODLOCKlock_flag0": 0,
 	"SPKMODLOCKlock_flag1": 0,
 	"SPKMODLOCKlock_flag2": 0,
 	"SPKMODLOCKlock_flag3": 0,
+
 	"SPKPRESETspk_preset_valid10": 0,
 	"SPKPRESETspk_preset_valid20": 0,
 	"SPKPRESETspk_preset_valid30": 0,
@@ -230,7 +232,7 @@
 	"SPKPRESETspk_preset_valid300": 0,
 	"SPKPRESETspk_preset_valid310": 0,
 	"SPKPRESETspk_preset_valid320": 0,
-	
+	//预设名称
 	"SPKFILEfile_name0": "Null",
 	"SPKFILEpw_flag0": 1,
 	"SPKFILEfile_name1": "Null",
@@ -243,6 +245,7 @@
 	"SPKFILEpw_flag4": 1,
 	"SPKFILEfile_name5": "Null",
 	"SPKFILEpw_flag5": 1,
+	
 	"SPKCHNchn_valid_flag0": 1,
 	"SPKCHNchn_name0": "OUT SPK 1",
 	"SPKCHNmod_valid0": 1023,
@@ -253,6 +256,7 @@
 	"SPKCHNmod_valid1": 1023,
 	"SPKCHNmod_lock1": 1023,
 	"SPKCHNtype1": 0,
+	
 	"SPKCHNchn_valid_flag4": 1,
 	"SPKCHNchn_name4": "OUT SPK 1",
 	"SPKCHNmod_valid4": 1023,
@@ -263,6 +267,7 @@
 	"SPKCHNmod_valid5": 1023,
 	"SPKCHNmod_lock5": 1023,
 	"SPKCHNtype5": 0,
+	
 	"SPKCHNchn_valid_flag8": 1,
 	"SPKCHNchn_name8": "OUT SPK 1",
 	"SPKCHNmod_valid8": 1023,
@@ -303,8 +308,11 @@
 	"SPKCHNmod_valid21": 1023,
 	"SPKCHNmod_lock21": 1023,
 	"SPKCHNtype21": 0,
+	
 	"PRESETNAMEname0": "12355",
 	"PRESETNAMEname1": "Default Preset",
+
+
 	"PRESETNAMEname2": "12355",
 	"PRESETNAMEname3": "1234",
 	"PRESETNAMEname4": "1",
@@ -1837,6 +1845,7 @@
 	"DANTELINKdante_link0": 0,
 	//预设信息
 	"PRESETINFOpreset_start_no0": 0,
+	
 	"PRESETINFOpreset_valid10": 511,
 	"PRESETINFOpreset_valid20": 0,
 	"PRESETINFOpreset_valid30": -65536,

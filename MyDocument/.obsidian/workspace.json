@@ -13,40 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "C#/匿名类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "073b48b7c661015e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web返回的全部信息格式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web返回的全部信息格式"
-            }
-          },
-          {
-            "id": "c330e7ec7ad35d19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "匿名类型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,54 +168,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "073b48b7c661015e",
+  "active": "b49fa04d4290047c",
   "lastOpenFiles": [
-    "Web返回的全部信息格式.md",
+    "C#/集合线程安全.md",
+    "Work/项目/数据库linq.md",
     "未命名 2.md",
-    "未命名 6.md",
     "音箱预设.md",
-    "音响预设2.md",
+    "未命名.md",
+    "C#/Json序列化.md",
+    "C#/Task.md",
+    "C#/匿名类型.md",
+    "C#/数据结构做版本兼容.md",
+    "C#/CTS.md",
+    "C#/Linq深入学习.md",
+    "C#/异常处理-异步.md",
+    "Web返回的全部信息格式.md",
+    "Notes/Linux/安装.net 运行时.md",
+    "Notes/Linux/脚本.md",
+    "Notes/Linux/在Ubuntu运行跨平台软件异常排除方法.md",
+    "Notes/Linux",
     "欢迎.md",
     "矩阵.md",
     "Work/项目/0408U.md",
-    "C#/CTS.md",
-    "C#/Linq深入学习.md",
-    "Notes/网络连接/TCP通讯-三次握手 四次握手.md",
-    "Notes/喜好/摄影/摄影/曝光.md",
-    "Notes/喜好/摄影/摄影/快门.md",
-    "Notes/喜好/摄影/摄影/镜头.md",
-    "Notes/喜好/摄影/摄影/影响虚化的因素.md",
-    "Notes/喜好/摄影/摄影/景深.md",
-    "Notes/喜好/摄影/摄影",
-    "创建链接.md",
+    "Pasted image 20250928094701.png",
+    "Notes/WPF-传统稳定的大爷/一些控件的冷门属性.md",
+    "音响预设2.md",
+    "Notes/IDE工具的使用/Rider/Rider快捷键.md",
+    "Notes/IDE工具的使用/Rider",
+    "工具/常用工具合集.md",
+    "Notes/Git/克隆Github项目.md",
+    "保存音箱预设.md",
+    "Pasted image 20250325105606.png",
+    "c43de74edc8b572ee87c88ca1b9c023f.png",
+    "a0414192fb77d810111ec059e5391ba3.png",
+    "Notes/Git",
     "调试临时文档.md",
-    "Work/项目/项目链接.md",
-    "Work/项目/奥雷代办.md",
-    "Notes/喜好/摄影/调色/1.调试步骤.md",
+    "Notes/脚本",
+    "6a11d52af64f1c7cfb98745e7dc72f07.png",
+    "Notes/喜好/摄影/关系图.canvas",
+    "c43de74edc8b572ee87c88ca1b9c023f 1.png",
+    "Pasted image 20250822101638.png",
+    "Pasted image 20250520092456.png",
+    "Pasted image 20250326161842.png",
+    "Pasted image 20250325105446.png",
+    "Notes/喜好/摄影/摄影",
     "Notes/喜好/摄影/调色",
     "Notes/喜好/摄影",
-    "Notes/喜好/未命名.md",
-    "Notes/冷门且恶心的坑/强制转换区域陷阱.md",
-    "Notes/冷门且恶心的坑/Win11共享盘文件下载引发的安全策略问题解决.md",
     "Notes/喜好",
-    "C#/Task.md",
-    "Work/win11安全策略.md",
-    "c43de74edc8b572ee87c88ca1b9c023f 1.png",
-    "6a11d52af64f1c7cfb98745e7dc72f07.png",
     "Notes/前端/域名，备案",
-    "Notes/前端/Uni-app/云端开发",
-    "Notes/前端/Uni-app",
-    "Notes/编程思想-提升/算法",
-    "Notes/IDE工具的使用/Visual Studio",
-    "Notes/IDE工具的使用",
-    "c43de74edc8b572ee87c88ca1b9c023f.png",
-    "Pasted image 20250822101638.png",
-    "a0414192fb77d810111ec059e5391ba3.png",
-    "Pasted image 20250520092456.png",
-    "Pasted image 20250326161758.png",
-    "Pasted image 20250325105446.png",
-    "Pasted image 20250325105606.png",
-    "Pasted image 20250326161842.png",
-    "未命名.canvas"
+    "Notes/前端/Uni-app/云端开发"
   ]
 }
