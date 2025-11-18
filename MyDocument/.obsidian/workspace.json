@@ -11,17 +11,56 @@
             "id": "b49fa04d4290047c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20251028150600.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251028150600"
+            }
+          },
+          {
+            "id": "d488272c1173b6b1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20251028150600.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251028150600"
+            }
+          },
+          {
+            "id": "7bd0af2e658ccf0a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/匿名类型.md",
+                "file": "Web返回的全部信息格式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "匿名类型"
+              "title": "Web返回的全部信息格式"
+            }
+          },
+          {
+            "id": "b638fcd52310a737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/喜好/植物/多肉种植.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多肉种植"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "5116625cff90088f",
@@ -168,54 +207,56 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b49fa04d4290047c",
+  "active": "74d7a721e84693b2",
   "lastOpenFiles": [
-    "C#/集合线程安全.md",
-    "Work/项目/数据库linq.md",
-    "未命名 2.md",
-    "音箱预设.md",
+    "Notes/喜好/植物/赣南脐橙.md",
+    "Notes/喜好/植物/多肉种植.md",
+    "未命名 1.md",
+    "Notes/喜好/植物",
     "未命名.md",
-    "C#/Json序列化.md",
-    "C#/Task.md",
-    "C#/匿名类型.md",
-    "C#/数据结构做版本兼容.md",
-    "C#/CTS.md",
-    "C#/Linq深入学习.md",
-    "C#/异常处理-异步.md",
-    "Web返回的全部信息格式.md",
-    "Notes/Linux/安装.net 运行时.md",
-    "Notes/Linux/脚本.md",
-    "Notes/Linux/在Ubuntu运行跨平台软件异常排除方法.md",
-    "Notes/Linux",
     "欢迎.md",
+    "未命名 2.md",
+    "Web返回的全部信息格式.md",
+    "音箱预设.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "矩阵.md",
-    "Work/项目/0408U.md",
-    "Pasted image 20250928094701.png",
-    "Notes/WPF-传统稳定的大爷/一些控件的冷门属性.md",
-    "音响预设2.md",
-    "Notes/IDE工具的使用/Rider/Rider快捷键.md",
-    "Notes/IDE工具的使用/Rider",
-    "工具/常用工具合集.md",
-    "Notes/Git/克隆Github项目.md",
+    "Work/代办.md",
     "保存音箱预设.md",
-    "Pasted image 20250325105606.png",
-    "c43de74edc8b572ee87c88ca1b9c023f.png",
-    "a0414192fb77d810111ec059e5391ba3.png",
-    "Notes/Git",
-    "调试临时文档.md",
-    "Notes/脚本",
+    "C#/匿名类型.md",
+    "C#/集合线程安全.md",
+    "C#/异常处理-异步.md",
+    "C#/数据结构做版本兼容.md",
+    "C#/异步/C sharp.NET中的一些新的异步语法和技术、.md",
+    "C#/Json序列化.md",
+    "C#/Prism/自动VIew-Model的生命周期管理.md",
+    "C#/异步",
+    "C#/Prism/导航的生命周期触发流程.md",
+    "C#/Prism/Prism.md",
+    "C#/Prism",
+    "C#/Linq深入学习.md",
+    "Notes/喜好/汽车/未命名.md",
+    "Notes/喜好/汽车/汽车构造与原理.md",
+    "Notes/喜好/摄影/调色/1.调色步骤.md",
+    "Notes/喜好/汽车",
+    "创建链接.md",
+    "音响预设2.md",
     "6a11d52af64f1c7cfb98745e7dc72f07.png",
-    "Notes/喜好/摄影/关系图.canvas",
-    "c43de74edc8b572ee87c88ca1b9c023f 1.png",
-    "Pasted image 20250822101638.png",
-    "Pasted image 20250520092456.png",
-    "Pasted image 20250326161842.png",
-    "Pasted image 20250325105446.png",
-    "Notes/喜好/摄影/摄影",
-    "Notes/喜好/摄影/调色",
-    "Notes/喜好/摄影",
-    "Notes/喜好",
-    "Notes/前端/域名，备案",
-    "Notes/前端/Uni-app/云端开发"
+    "Image/Pasted image 20251028150600.png",
+    "Image/Pasted image 20251028152623.png",
+    "Image/a0414192fb77d810111ec059e5391ba3.png",
+    "Image",
+    "Image/Pasted image 20251028150331.png",
+    "Image/Pasted image 20251028150231.png",
+    "Image/Pasted image 20251028150057.png",
+    "Image/Pasted image 20251028150044.png",
+    "Image/Pasted image 20251028145948.png",
+    "Work/音频",
+    "Image/Pasted image 20250520092456.png",
+    "工具/未命名",
+    "Notes/Linux",
+    "Notes/IDE工具的使用/Rider",
+    "Notes/Git",
+    "Notes/喜好/摄影/关系图.canvas"
   ]
 }

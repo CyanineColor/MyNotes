@@ -1787,6 +1787,7 @@
 	"BYPASSbypass38": 1,
 	"BYPASSbypass39": 1,
 
+	//阻抗
 	"IMPEDimped0": 8.0,
 	"IMPEDimped1": 8.0,
 	"IMPEDimped2": 8.0,
@@ -2043,6 +2044,7 @@
 	"AMPWORKMODEvolt_upper11": 70.00,
 	"AMPWORKMODEcurr_upper11": 17.50,
 	"AMPWORKMODEpow_upper11": 1225.0,
+	
 	"AMPPARAMMODULEprotect_onoff0": 1,
 	"AMPPARAMMODULEtemperature_onoff0": 1,
 	"AMPPARAMMODULEamp_match_onoff0": 1,
